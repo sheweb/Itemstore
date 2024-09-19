@@ -61,7 +61,7 @@ export default function CreatorDashboard() {
               <div key={i} className="border shadow rounded-xl overflow-hidden">
                 <img src={nft.image} className="rounded" />
                 <div className="p-4 bg-black">
-                  <p className="text-2xl font-bold text-white">Price - {nft.price} ETH</p>
+                  <p className="text-2xl font-bold text-white">Price - {nft.price} cfx</p>
                 </div>
               
               </div>
