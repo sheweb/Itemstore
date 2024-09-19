@@ -79,7 +79,7 @@ export default function Navbar() {
           <a className="text-4xl tracking-widest font-semibold" href="/">
             {" "}
             <h2 className="text-yellow-800">
-              <span className="text-blue-800">EDUL</span>EARN
+              <span className="text-blue-800">Conflux</span>Sch
             </h2>
           </a>
         </div>
@@ -113,7 +113,6 @@ export default function Navbar() {
         <NavLink to ="/sellnft">List Course</NavLink>
         <NavLink to ="/mynft">MY Course</NavLink>
         <NavLink to="/dashboard">DASHBOARD</NavLink>
-        <NavLink to="/Review">Course REVIEW</NavLink>
       </div>
     </>
   );
